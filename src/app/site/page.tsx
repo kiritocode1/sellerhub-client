@@ -1,5 +1,5 @@
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
-import { pricingCards, prices } from "@/lib/Prices";
+import { pricingCards , prices} from "@/lib/Prices";
 // import { stripe } from "@/lib/stripe";
 import clsx from "clsx";
 import { Check } from "lucide-react";
