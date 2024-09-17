@@ -21,7 +21,7 @@ export default async function Home() {
 
 				<p className="text-center">Run your agency, in one place</p>
 				<div className="bg-gradient-to-r from-primary to-secondary-foreground text-transparent bg-clip-text relative">
-					<h1 className="text-9xl font-bold text-center md:text-[200px]">SELLERHUB</h1>
+					<h1 className="text-9xl font-bold text-center md:text-[200px] mb-20">SELLERHUB</h1>
 				</div>
 				<div className="flex justify-center items-center relative md:mt-[-70px]">
 					<Image
